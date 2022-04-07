@@ -1,0 +1,1 @@
+My name is Krystian Lemański. I am 23 years old and I study computer science at the University of Bialystok. My interests are WordPress, PHP, HTML and CSS. I do not know what to add more, I am posting my projects here. Remember to read a license attached to every repository or project.
